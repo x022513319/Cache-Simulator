@@ -1,0 +1,5 @@
+-capacity 		524288 
+-block_size		8
+-#_of_way		64
+-length_mem_addr	64	
+-way_replacement	LRU

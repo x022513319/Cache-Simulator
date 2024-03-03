@@ -1,0 +1,5 @@
+-capacity 		1048576 
+-block_size		128	
+-#_of_way		4	
+-length_mem_addr	64	
+-way_replacement	RR 
